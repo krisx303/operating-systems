@@ -1,0 +1,7 @@
+Ran 10 measures for each buffer size
+
+BUFFER SIZE 1
+Average time: 217.392836 ms
+
+BUFFER SIZE 1024
+Average time: 1.155270 ms

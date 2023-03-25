@@ -1,0 +1,21 @@
+Ran 10 measures for each buffer size
+
+BUFFER SIZE 1
+Average std time: 28.853930 ms
+Average sys time: 460.286659 ms
+
+BUFFER SIZE 8
+Average std time: 3.951430 ms
+Average sys time: 55.948600 ms
+
+BUFFER SIZE 32
+Average std time: 1.683460 ms
+Average sys time: 18.085880 ms
+
+BUFFER SIZE 1024
+Average std time: 1.389790 ms
+Average sys time: 1.649220 ms
+
+BUFFER SIZE 4096
+Average std time: 1.192220 ms
+Average sys time: 1.378950 ms
