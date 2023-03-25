@@ -1,0 +1,71 @@
+> Structure was created with size: 5
+Real   Time: 0.004300 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> File main_dynamic.c counted
+Real   Time: 1.933600 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> File main.c counted
+Real   Time: 1.822800 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> File lib.c counted
+Real   Time: 1.489200 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> File lib.h counted
+Real   Time: 1.134401 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+>  209  644 6243 main_dynamic.c
+Real   Time: 0.000800 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+>  183  545 5217 main.c
+Real   Time: 0.000200 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+>   80  231 2174 lib.c
+Real   Time: 0.000200 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+>   62  264 1807 lib.h
+Real   Time: 0.000200 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> Element at index 3 was removed
+Real   Time: 0.000700 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> Element at index 2 was removed
+Real   Time: 0.000300 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> Element at index 1 was removed
+Real   Time: 0.000200 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> Element at index 0 was removed
+Real   Time: 0.000200 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> Structure destroyed...
+Real   Time: 0.000300 ms
+System Time: 0.000000 s
+User   Time: 0.000000 s
+
+> 
