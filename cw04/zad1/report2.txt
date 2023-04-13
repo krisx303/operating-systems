@@ -1,0 +1,3 @@
+W przypadku funkcji fork, proces potomny dziedziczy zachowanie, jednak jego kolejka sygnałów oczekujących jest pusta i nie zawiera sygnałów kierowanych do procesu macierzystego.
+
+Uzycie funckji exec nie wpływa na wcześniej ustawioną maskę sygnałów blokowanych oraz na listę ignorowanych sygnałów. Ponieważ id procesu się nie zmienia, to kolejka sygnałów zostaje niezmieniona.

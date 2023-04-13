@@ -1,0 +1,12 @@
+Flaga SIG_INFO:
+Wysyłanie sygnału z dodatkową informacją działa poprawnie w obu przypadkach (wysyłana liczba lub wskaźnik).
+Przetestowano również przesyłanie sygnału z wiadomością między dwoma procesami.
+
+Flaga SA_RESTART:
+Przetestowano dla funckji systemowej wait().
+W przypadku użycia owej flagi i odebrania sygnału proces wznawia przerwaną funkcję wait() i czeka na skończenie się procesu potomnego.
+W innym przypadku program wykonuje się dalej (przeszedł instrukcję wait() chociaż proces potomny nadal działa).
+
+Flaga SA_RESETHAND:
+Przetestowano dla sygnału SIGUSR1.
+Pierwszy sygnał zostaje przechwycony a kolejne odebranie sygnału powoduje zakończenie procesu (sygnał nie został przechwycony).
