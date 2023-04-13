@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.inc": "ini",
+        "*.htc": "dart",
+        "stdlib.h": "c"
+    }
+}
